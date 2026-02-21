@@ -1,5 +1,4 @@
-# HyCorp Internal AI – Prompt Injection CTF Lab
-
+# HyCorp Internal AI
 <p align="center">
   <img src="images/hycorp.png" width="850">
 </p>
@@ -64,7 +63,15 @@ https://ollama.com
 
 Pull Llama3 model:
 
-```bash
 ollama pull llama3
 ollama serve
 
+Lab Installation:
+git clone https://github.com/YOUR_USERNAME/hycorp-ai-ctf.git
+cd hycorp-ai-ctf
+
+pip install -r requirements.txt
+python app.py
+
+Go to:
+http://127.0.0.1:5000
