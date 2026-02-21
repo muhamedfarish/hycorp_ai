@@ -55,7 +55,7 @@ This lab helps understand:
 
 ---
 
-## Install Ollama
+## Lab Installation
 
 Download Ollama:
 
@@ -66,7 +66,6 @@ Pull Llama3 model:
 ollama pull llama3
 ollama serve
 
-Lab Installation:
 git clone https://github.com/YOUR_USERNAME/hycorp-ai-ctf.git
 cd hycorp-ai-ctf
 
