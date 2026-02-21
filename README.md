@@ -66,3 +66,5 @@ Pull Llama3 model:
 
 ```bash
 ollama pull llama3
+ollama serve
+
