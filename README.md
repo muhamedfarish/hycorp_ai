@@ -18,7 +18,7 @@ This project demonstrates how improper AI integration can expose sensitive infor
 ## Features
 
 - Offline AI using Llama3
-- Enterprise-style Internal AI Assistant
+- Enterprise style Internal AI Assistant
 - HR knowledge assistant simulation
 - Internal infrastructure documents exposure
 - Prompt Injection vulnerability
