@@ -67,6 +67,7 @@ ollama pull llama3
 ollama serve
 
 git clone https://github.com/muhamedfarish/hycorp_ai.git
+
 cd hycorp-ai-ctf
 
 pip install -r requirements.txt
