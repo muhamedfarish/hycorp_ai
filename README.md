@@ -7,7 +7,7 @@
 
 ## Overview
 
-HyCorp Internal AI is an intentionally vulnerable offline AI application created for learning **Prompt Injection attacks** and **AI security testing**.
+HyCorp Internal AI is an intentionally vulnerable offline AI application created for learning Prompt Injection attacks** and AI security testing.
 
 The lab simulates a real enterprise AI assistant connected to internal company documents and infrastructure data.
 
